@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronimiguel
-- 👀 I’m interested in Test Automation, UI Testing, Api Testing, CI | CD | DEVOPS, Performance and Mobile tests, and Programming as well.
-- 🌱 I’m currently learning a lot of tools, so you might find some bootcamp related repo's in here. 
+- 👀 I’m interested in Test Automation(Selenium), Unit Testing (jest), API Testing(Postman), Mobile tests(Appium / Webdriver.io), and Programming as well.
+- 🌱 I’m currently learning React Native, also you might find some bootcamp related repo's in here. 
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me : https://www.linkedin.com/in/ronimiguel/
 
